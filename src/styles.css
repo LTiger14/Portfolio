@@ -1,1 +1,11 @@
 /* You can add global styles to this file, and also import other style files */
+html {
+  font-family: 'Titillium Web', sans-serif;
+  font-size: calc(1rem/1.6);
+}
+body {
+  background: url(/assets/img/bg.jpg) no-repeat center center fixed;
+  background-size: cover;
+  height: 100%;
+  overflow: hidden;
+}
